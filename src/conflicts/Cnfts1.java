@@ -6,6 +6,8 @@ public class Cnfts1 {
 			if(i==5) {
 				System.exit(0);
 			}
+			System.out.println(1);
+			break;
 		}
 	}
 
