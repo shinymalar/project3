@@ -8,6 +8,10 @@ public class Cnfts1 {
 			}
 			System.out.println(1);
 			break;
+			int age=10;
+			int weight=50;
+			int height=120;
+			
 		}
 	}
 
