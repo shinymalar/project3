@@ -6,9 +6,12 @@ public class Cnfts1 {
 			if(i==5) {
 				System.exit(0);
 			}
+			System.out.println(1);
+			break;
 			int age=10;
 			int weight=50;
 			int height=120;
+			
 		}
 	}
 
